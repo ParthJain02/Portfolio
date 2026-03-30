@@ -42,7 +42,7 @@ export const siteConfig: Metadata = {
     "react-dom",
     "tailwindcss",
     "tailwindcss-animate",
-    "ui/ux",
+    "AI/ML",
     "js",
     "javascript",
     "typescript",
