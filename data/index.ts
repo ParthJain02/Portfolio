@@ -10,10 +10,10 @@ export const gridItems = [
   {
     id: 1,
     title: "About Me",
-description: "I am Dexter Morgan, a blood spatter analyst by day and a meticulous observer of human behavior. With a sharp eye for detail and a disciplined mindset, I maintain order in both my professional work and personal code. I value precision, control, and structure, always striving to keep things clean, efficient, and... balanced.",
+description: "I'm Parth Jain, a passionate full-stack developer and tech enthusiast. I specialize in building modern web applications with React, Next.js, and TypeScript. With a keen eye for clean code and user experience, I create innovative solutions that make an impact. I'm driven by continuous learning and collaborating with amazing teams.",
     title2: "Education",
-    description2: "2022 - Present \u00A0\u00A0 Stikubank University, Semarang",
-    description3: "\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0 Informatics Enginnering",
+    description2: "Passionate developer & open-source contributor",
+    description3: "\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0 Full Stack Developer",
     className: "lg:col-span-3 md:col-span-3 md:row-span-1",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
@@ -200,14 +200,14 @@ export const socialMedia = [
   {
     name: "GitHub",
     img: "/git.svg",
-    link: "",
+    link: "https://github.com/ParthJain02",
   },
   {
     name: "Behance",
     img: "/behance.svg",
     link: "",
   },
-  
+
 ] as const;
 
 export const techStack = {

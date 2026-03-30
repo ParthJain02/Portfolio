@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
 
 export const links = {
-  sourceCode: "",
-  ownerName: "Dexter Morgan",
+  sourceCode: "https://github.com/ParthJain02/Portfolio",
+  ownerName: "Parth Jain",
   ownerEmail: "",
+  github: "https://github.com/ParthJain02",
 } as const;
 
 export const siteConfig: Metadata = {
